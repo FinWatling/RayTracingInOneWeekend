@@ -1,0 +1,3 @@
+/Users/fin/Desktop/C++/Shaders/build/CMakeFiles/inOneWeekend.dir
+/Users/fin/Desktop/C++/Shaders/build/CMakeFiles/edit_cache.dir
+/Users/fin/Desktop/C++/Shaders/build/CMakeFiles/rebuild_cache.dir

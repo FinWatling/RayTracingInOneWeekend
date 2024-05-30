@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/fin/Desktop/C++/Shaders/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/inOneWeekend.dir/main.cc.o -c /Users/fin/Desktop/C++/Shaders/main.cc",
+  "file": "/Users/fin/Desktop/C++/Shaders/main.cc",
+  "output": "CMakeFiles/inOneWeekend.dir/main.cc.o"
+}
+]
